@@ -1,0 +1,1 @@
+I am learning C# in my Contemporary Programming class and I was wondering what the difference was between C++ and C# and the history of the two languages.

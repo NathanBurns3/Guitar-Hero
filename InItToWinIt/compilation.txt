@@ -1,0 +1,13 @@
+The source code  ->
+    ^What I wrote
+
+{Preprocessing}  ->
+    ^Will look at the lines that start with # (#include <iostream>)
+
+{Compilation}  ->
+    ^Take out the preprocessor & turn it into code the cpu can execute (object code)
+
+{Linking}  ->
+    ^Support libraries from other programmers or operating systems
+
+{Executable}
