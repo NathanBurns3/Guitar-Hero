@@ -7,6 +7,7 @@ The function of the main method is
 to print out my application to the
 absurd musical competition of my choice
 */
+// Author: Nathan Burns
 int main() {
     //A string variable that hold the value of the performance choice
     std::string performanceChoice { "Karaoke" };
